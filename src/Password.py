@@ -13,7 +13,7 @@ def generate_random_password(length=10):
 
     # picking random characters from the list
     password = []
-    for i in range(length):
+    for _ in range(length):
         password.append(random.choice(characters))
 
     # shuffling the resultant password

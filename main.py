@@ -1,5 +1,5 @@
 import tkinter as tk
-from GUI import Gui
+from src.GUI import Gui
 
 if __name__ == '__main__':
     root = tk.Tk()
