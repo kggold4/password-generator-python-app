@@ -2,7 +2,7 @@
 
 Password Generator build with Python and Tkinter Library.
 
-## See how I build this project in youtube video:
+## See how I build this project in YouTube video:
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=-RPpInICIys"><img src="http://i3.ytimg.com/vi/-RPpInICIys/maxresdefault.jpg"></a>
