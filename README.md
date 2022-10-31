@@ -1,6 +1,6 @@
 # <i>Password Generator App</i>
 
-Password Generator build with Python and Tkinter Library.
+> Password Generator build with Python and Tkinter Library.
 
 ## See how I build this project in YouTube video:
 
